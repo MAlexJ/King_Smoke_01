@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">King_Smoke_01</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_1">BUTTON_1</string>
+    <string name="button_2">BUTTON_2</string>
+    <string name="button_3">BUTTON_3</string>
+    <string name="button_4">BUTTON_4</string>
+    <string name="text_catalog">Каталог товаров</string>
+
+</resources>
